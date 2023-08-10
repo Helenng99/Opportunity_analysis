@@ -115,7 +115,7 @@ their own probability
 
 ● Create new columns with DAX functions.
 
-● Create new tables with DAX functions
+● Create new tables with DAX functions.
 
 
 
