@@ -105,15 +105,15 @@ their own probability
 
 ## **What were the main objectives in this project?**
 
-● Be able to open files in Power BI
+● Be able to open files in Power BI.
 
-● Know how to transform tables in Power Query
+● Know how to transform tables in Power Query.
 
-● Make visualization to get insights of the data
+● Make visualization to get insights of the data.
 
-● Create new metrics with DAX functions
+● Create new metrics with DAX functions.
 
-● Create new columns with DAX functions
+● Create new columns with DAX functions.
 
 ● Create new tables with DAX functions
 
