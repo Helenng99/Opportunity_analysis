@@ -1,3 +1,5 @@
+## **Introduction**
+
 Group project in which we worked as Data Analysts in a Marketing company specialized in IT and Business. A client had provided us with several databases containing information about sales, clients, and products. The main objective was to extract sales opportunities. For this purpose, we didn't have access to production databases. Instead, the client created an Excel file with the following sheets:
 
 
@@ -101,7 +103,7 @@ their own probability
 
 
 
-What were the main objectives in this project?
+## **What were the main objectives in this project?**
 
 ● Be able to open files in Power BI
 
